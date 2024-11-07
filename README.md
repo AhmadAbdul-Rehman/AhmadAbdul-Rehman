@@ -1,22 +1,41 @@
 <h1 align="center">Hi 👋, I'm Ahmad Abdulrehman</h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Experienced+Full-Stack+Web+Developer;Building+scalable+web+applications;React%2C+Node.js%2C+MongoDB+Developer;Building+apps+with+Next.js" alt="Typing SVG" />
+
 <h3 align="center">From Code to Creation</h3>
 
-<img align="right" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif" width="350px" style="border-radius: 15px;" />
+<img align="right" src="https://user-images.githubusercontent.com/76048512/216566500-a1c08415-ea3f-44a1-904d-c28f86ae450e.gif" width="200px"  />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadabdul-rehman&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadabdul-rehman" /> </p>
+
+  <table>
+    <tr>
+      <!-- <th>Profile Views</th> -->
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/AhmadAbdul-Rehman"> <img src="https://komarev.com/ghpvc/?username=AhmadAbdul-Rehman&style=flat&color=brightgreen"> </a>
+      </td>
+    </tr>
+  </table>
+
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/ahmad-devprogse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ahmad-devprogse" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/19g1ps85vt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/19g1ps85vt/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/ahmad_devprogse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmad_devprogse" height="30" width="40" /></a>
-</p>
+<p align="left"> <a><img src="https://skillicons.dev/icons?i=gmail,linkedin,discord"></a> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,mongodb,css,html,js,tailwindcss,express,nodejs"> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadabdul-rehman&show_icons=true&locale=en&layout=compact" alt="ahmadabdul-rehman" /></p>
+## Activity On GitHub
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AhmadAbdul-Rehman&theme=dark&hide_border=true&color=#FB8C00)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadabdul-rehman&show_icons=true&locale=en" alt="ahmadabdul-rehman" /></p>
+## My Stats:
+<p align="left">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=AhmadAbdul-Rehman&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadabdul-rehman&" alt="ahmadabdul-rehman" /></p>
+## What I'm Doing
+
+- 🔭 Working on Websites/Notion Bloger
+- 🌱 Learning Three.js & more
+- 📫 How to contact me: ahmad.coder.dps2610@gmail.com (Gmail)
