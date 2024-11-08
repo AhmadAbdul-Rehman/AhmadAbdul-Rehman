@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmad Abdulrehman</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=500&lines=Experienced+Full-Stack+Web+Developer;Building+scalable+web+applications;React%2C+Node.js%2C+MongoDB+Developer;Building+apps+with+Next.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FB8C00&center=true&vCenter=true&width=500&lines=Experienced+Full-Stack+Web+Developer;Building+scalable+web+applications;React%2C+Node.js%2C+MongoDB+Developer;Building+apps+with+Next.js" alt="Typing SVG" />
 
 <h3 align="center">From Code to Creation</h3>
 
