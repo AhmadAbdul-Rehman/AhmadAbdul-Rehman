@@ -6,13 +6,13 @@
 <table>
 <tr>
 <td>
-Hey!👋 <br />
+Hey!👋 <br /><br />
 I am a passionate developer with a knack for full-stack applications, interesting gaming platforms, and elegant user interfaces. 🚀
-<br />
+<br /><br />
 🔹 Working on an eCommerce project with React, Tailwind CSS, Node.js, Express, and MongoDB.<br/>
 🔹 Currently exploring the intersection of Data Engineering and Cloud Engineering to build scalable solutions. <br/>
 🔹 Interested in JavaScript, Next.js, and making animations with tools like GSAP.
-
+<br /><br />
 Bringing ideas to life in the form of functional gaming experiences.
 I build tools that help people write blogs, notes, and posts as smoothly as possible.
 
