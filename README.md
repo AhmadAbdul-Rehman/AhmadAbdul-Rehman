@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Ahmad%20Abdulrehman&fontSize=70&animation=scaleIn&fontColor=fff" alt="Header Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Ahmad%20Abdulrehman&fontAlign=50&fontAlignY=50&descAlign=100&descAlignY=100&descSize=300&animation=fadeIn&fontColor=ffffff&reversal=false&section=header&fontSize=60&textBg=false" alt="Ahmad Abdulrehman" />
 </p>
 
 <h1 align="center" style="color: #FF6F61; text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.4);">
@@ -116,5 +116,5 @@ Bug or feature request? Drop it [here](https://github.com/AhmadAbdul-Rehman/Inte
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=120&section=footer&text=Code,%20Create,%20Conquer!&fontSize=30&animation=twinkling&fontColor=fff" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Code,%20Create,%20Conquer!&fontAlign=50&fontAlignY=50&descAlign=100&descAlignY=100&descSize=300&animation=fadeIn&fontColor=ffffff&reversal=false&section=footer&fontSize=50&textBg=false" alt="Footer Wave" />
 </p>
