@@ -23,13 +23,292 @@
 
 ---
 
-## ⚙️ My Toolkit
+## 💻 My Toolkit
 
-<p align="center" style="padding: 20px;">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,scss,js,ts,threejs,angular,react,nextjs,nodejs,express,mongodb,fastapi,python," alt="Tech Stack" style="margin: 10px;" />
-</p>
+<table align="center">
+  <!-- Frontend Frameworks & Libraries -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
+      <br>CSS3
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="45" height="45" />
+      <br>Javascript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="45" height="45" />
+      <br>Typescript
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/reactnative-auto.svg" width="45" height="45" alt="React-Native" />
+      <br>React-Native
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45" height="45" alt="Vue.js" />
+      <br>Vue
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="45" height="45" alt="Angular" />
+      <br>Angular
+    </td>
+  </tr>
+  <!-- State Management & Desktop -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="45" height="45" alt="Redux" />
+      <br>Redux
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/zustand-auto.svg" width="45" height="45" alt="Zustand" />
+      <br>Zustand
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/electron.svg" width="45" height="45" alt="Electron" />
+      <br>Electron
+    </td>
+    <!-- Backend Frameworks & Languages -->
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="45" height="45" />
+      <br>Python
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="45" height="45" alt="Laravel" />
+      <br>Laravel
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" alt="PHP" />
+      <br>PHP
+    </td>
+  </tr>
+  <!-- Databases & ORMs -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-original.svg" width="45" height="45" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="45" height="45" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase" />
+      <br>Supabase
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/mongoose.svg" width="45" height="45" alt="Mongoose" />
+      <br>Mongoose
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="45" height="45" alt="Prisma" />
+      <br>Prisma
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="45" height="45" alt="GraphQL" />
+      <br>GraphQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="45" height="45" alt="RestAPI" />
+      <br>RestAPI
+    </td>
+  </tr>
+  <!-- Styling & UI Libraries -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS" />
+      <br>Tailwind CSS
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/sass-icon.svg" width="45" height="45" alt="SASS" />
+      <br>SASS
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45" height="45" alt="MUI" />
+      <br>MUI
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=styledcomponents" width="45" height="45" alt="StyledCom" />
+      <br>Styled
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framermotion/framermotion-original.svg" width="45" height="45" alt="Framer Motion" />
+      <br>Framer Motion
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=threejs" width="45" height="45" alt="Three.js" />
+      <br>Three.js
+    </td>
+    <!-- Authentication & AI -->
+    <td align="center" width="90">
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/clerk.svg" width="45" height="45" alt="Clerk" />
+      <br>Clerk
+    </td>
+    <td align="center" width="90">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.43.0/files/dark/huggingface-color.png" width="45" height="45" alt="Figma" />
+      <br> Hugging Face
+    </td>
+  </tr>
+  <!-- Build Tools & Testing -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="45" height="45" alt="Webpack" />
+      <br>Webpack
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/vite-auto.svg" width="45" height="45" alt="Vite" />
+      <br>Vite
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="45" height="45" alt="ESLint" />
+      <br>ESLint
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/swagger-auto.svg" width="45" height="45" alt="Swagger" />
+      <br>Swagger
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/postman.svg" width="45" height="45" alt="Postman" />
+      <br>Postman
+    </td>
+    <!-- Programming Languages -->
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="45" height="45" alt="Go" />
+      <br>Go
+    </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" width="45" height="45" alt="Java" />
+      <br>Java
+    </td>
+    <!-- Deployment & Version Control -->
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="45" height="45" alt="Vercel" />
+      <br>Vercel
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+  <!-- Version Control & Networking -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="Github" />
+      <br>Github
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="45" height="45" alt="Github Actions" />
+      <br>Github Actions
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/ngrok.svg" width="45" height="45" alt="Ngrok" />
+      <br>Ngrok
+    </td>
+    <!-- Additional AI Tools -->
+    <td align="center" width="90">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.43.0/files/dark/grok.png" width="45" height="45" alt="Grok" />
+      <br>Grok
+    </td>
+    <td align="center" width="90">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.43.0/files/dark/deepseek-color.png" width="45" height="45" alt="DeepSeek" />
+      <br>DeepSeek
+    </td>
+    <td align="center" width="90">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.43.0/files/light/perplexity-color.png" width="45" height="45" alt="Perplexity" />
+      <br>Perplexity
+    </td>
+    <td align="center" width="90">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.43.0/files/light/claude-color.png" width="45" height="45" alt="Claude" />
+      <br>Claude.ai
+    </td>
+    <td align="center" width="90">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.43.0/files/dark/gemini-color.png" width="45" height="45" alt="Gemini" />
+      <br> Gemini
+    </td>
+    <td align="center" width="90">
+    <img src="https://github.com/LelouchFR/skill-icons/blob/main/assets/chatgpt-auto.svg" width="45" height="45" alt="ChatGPT" />
+      <br>ChatGPT
+    </td>
+  </tr>
+  <!-- Design & Editors -->
+  <tr>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="90">
+      <img src="https://avatars.githubusercontent.com/u/684879?s=280&v=4" width="45" height="45" alt="Sublime Text" />
+      <br>Sublime Text
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45" alt="Figma" />
+      <br>Figma
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/axios/axios-plain.svg" width="45" height="45" alt="Figma" />
+      <br>Axios
+    </td>
+    <td align="center" width="90">
+      <img src="https://ui.shadcn.com/apple-touch-icon.png" width="45" height="45"  style="border-radius: 10px;" alt="Shadcn" />
+      <br>Shadcn ui
+    </td>
+    <td align="center" width="90">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" width="45" height="45" alt="Slack" />
+      <br /> Slack
+</td>
+    <td align="center" width="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Skype_logo_%282019%E2%80%93present%29.svg/991px-Skype_logo_%282019%E2%80%93present%29.svg.png" width="45" height="45" alt="Slack" />
+      <br /> Skype
+</td>
+    <td align="center" width="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chart.js_logo.svg/1024px-Chart.js_logo.svg.png" width="45" height="45" alt="Slack" />
+<br /> Chart.js
+</td>
+    <td align="center" width="90">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="45" height="45" alt="Slack" />
+      <br /> Stackoverflow
+</td>
+  </tr>
+</table>
 
 ---
+
+
 
 ## 🌟 Star Project: Intelligent Write Note Hub
 
