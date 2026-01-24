@@ -361,36 +361,14 @@ A **next-gen collaborative note-taking app**—perfect for teams, students, and 
 
   <!-- Pixel Art Spaceship -->
   <pre style="color: #00C4B4; font-size: 14px; text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);">
-      .______. 
-     /|_||_\`.__
-    (   _    _ _\
-    =| (_)  (_) |
-     \._  _   _./
-      || (_) (_) |
-      ||  .   .  |
-      ||________|
-      |_________|
+      ██╗ █████╗ ██╗   ██╗ █████╗ ███████╗ ██████╗ ██████╗ ██╗██████╗ ████████╗
+      ██║██╔══██╗██║   ██║██╔══██╗██╔════╝██╔════╝ ██╔══██╗██║██╔══██╗╚══██╔══╝
+      ██║███████║██║   ██║███████║███████╗██║  ███╗██████╔╝██║██████╔╝   ██║   
+ ██   ██║██╔══██║╚██╗ ██╔╝██╔══██║╚════██║██║   ██║██╔══██╗██║██╔═══╝    ██║   
+ ╚█████╔╝██║  ██║ ╚████╔╝ ██║  ██║███████║╚██████╔╝██║  ██║██║██║        ██║   
+  ╚════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝        ╚═╝   
   </pre>
 </div>
-
----
-
-## 🤝 Contribute
-
-Got ideas? Let’s collab!  
-1. Fork [my repo](https://github.com/AhmadAbdul-Rehman).  
-2. Branch it: `git checkout -b epic-feature`.  
-3. PR it and let’s rock!
-
-Bug or feature request? Drop it [here](https://github.com/AhmadAbdul-Rehman/IntelligentWriteNoteHub/issues/new).
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmadAbdul-Rehman&theme=react-dark&hide_border=true&area=true&bg_color=transparent" alt="Activity Graph" />
-</p>
 
 ---
 
